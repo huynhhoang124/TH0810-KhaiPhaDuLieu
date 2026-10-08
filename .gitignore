@@ -1,0 +1,8 @@
+# Repo chỉ chứa code + báo cáo
+data/
+figures/
+screenshots/
+.ipynb_checkpoints/
+__pycache__/
+.claude/
+_*.html
